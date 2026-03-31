@@ -1,6 +1,8 @@
-# ⛓️ Replicação de Blockchain em C
+# ⛓️ Replicação de Blockchain em C (Reupload)
 
 Implementação educacional das principais estruturas e mecanismos de uma Blockchain, desenvolvida em **linguagem C** com uso da biblioteca **OpenSSL** para criptografia SHA-256.
+
+Creditos a github.com/CarlosDiasS e github.com/Anisioengcomp pelo trabalho em conjunto.
 
 ---
 
